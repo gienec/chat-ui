@@ -1,5 +1,5 @@
 # chat-ui
 
-Hot to run:
+How to run:
 * npm install
 * npm start
